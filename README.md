@@ -1,5 +1,5 @@
 # ART-W23AC
-ART-W23AC is a Data Arts class taught at UC Berkeley by Professor Greg Niemeyer, and designed by the BIDS Data Science Education Program. This repo contains the data science modules used within the course.
+ART-W23AC is a Data Arts class taught at UC Berkeley by Professor Greg Niemeyer, and supported by the BIDS Data Science Education Program. This repo contains the data science modules used within the course.
 
 The documentation for this project lives on the repository wiki. To get started, see the setup instructions and the guidelines for contributing to the project.
 
